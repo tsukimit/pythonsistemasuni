@@ -1,0 +1,14 @@
+Instalacion:
+Ingresar a python download---3.7.6---Windows x86-64 executable installer---descargar
+crear una carpeta LabPy en un disco conveniente y generar Clase1 y Recursos(cortar la descarga de python y pegarlo en recursos)
+alt y herramientas opciones de carpeta sin check ocultar extenciones ...con check mostrar ruta....general expandir rutas.
+add python 3.7 PATH en la instalacion con flecha c(segunda opcion)
+
+Al ingresar a python:
+Para almacenar datos de cadena de caracteres tenemos q usar " o '.
+miprimer.py-->interpretador Python.exe-->Resultados
+un editor es cmd, sell
+para salida print(arg1,arg2....)
+x=int(input("Se ingresa un comentario anterior al ingreso de dato"))
+ORDEN DE LAS OPERACIONES: (),and,or,not,>,<,>=,<=,==,!=,**,*,/,//,0,-
+variable.__round__(numero de decimales a mostrar) = round(variable,numero de decimales a mostrar)
